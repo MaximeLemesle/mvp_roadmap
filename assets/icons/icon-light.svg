@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="MVP Roadmap icon (white)">
+  <rect x="4" y="4" width="56" height="56" rx="14"/>
+  <path d="M16 44 C 24 34, 36 36, 48 22"/>
+  <circle cx="16" cy="44" r="3" fill="#ffffff" stroke="none"/>
+  <circle cx="32" cy="34" r="3" fill="#ffffff" stroke="none"/>
+  <circle cx="48" cy="22" r="3" fill="#ffffff" stroke="none"/>
+</svg>
